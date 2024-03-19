@@ -5,9 +5,13 @@ publishdate: 2014-03-10
 lastmod: 2014-03-10
 draft: false
 tags: ["hugo", "jekyll", "migration", "git", "templates"]
+math: true
 ---
 
 ## Move static content to `static`
+
+Test $$a^2 + b^2 = c^2$$
+
 Jekyll has a rule that any directory not starting with `_` will be copied as-is to the `_site` output. Hugo keeps all static content under `static`. You should therefore move it all there.
 With Jekyll, something that looked like
 
