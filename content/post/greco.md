@@ -565,8 +565,7 @@ Polynomial Multiplication between
 - $R_{2, i} = [-(q_i - 1)/2, (q_i - 1)/2]$.
 - $deg(X^N+1) = N$ 
 - $deg(R_{2, i})=  2(N-1) - N = N-2$
-- $deg(R_{2, i} * X^N+1 )=  2N - 2$
-
+- $deg(R_{2, i} * (X^N+1) )=  2N - 2$
 
 When performing the polynomial multiplication, let's consider the case in which the coefficients of $R_{2, i}$ are all $(q_i - 1)/2$, and let's define the polynomial $(X^N+1)$ as $f$. 
 
