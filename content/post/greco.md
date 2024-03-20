@@ -2,10 +2,15 @@
 title: "Greco"
 date: 2024-03-20T10:11:59Z
 math: true
-thumbnail: "../assets/boetti.png"
 ---
 
 > Thanks to Janmajaya Mall and Xiang Xie for discussions and reviews. You can leave comments of the hackMD version of this document [here](https://hackmd.io/@gaussian/r1W98Kqqa).
+
+<figure align="center">
+  <img src="https://hackmd.io/_uploads/rJYXGUdCa.jpg" alt="Artwork by Alighiero Boetti" width="50%">
+  <figcaption>Alighiero Boetti, Autodisporsi, 1975</figcaption>
+</figure>
+
 
 ## 1. Introduction
 
