@@ -1,6 +1,6 @@
 baseURL = "https://enricobottazzi.github.io/blog/"
 languageCode = "en-us"
-title = "Some Title"
+title = "Enrico's Blog"
 theme = "minimal-bootstrap-hugo-theme"
 
 [taxonomies]
