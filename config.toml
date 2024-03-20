@@ -36,10 +36,6 @@ theme = "minimal-bootstrap-hugo-theme"
   name = "Posts"
   url = "/"
   weight = 1
-  [[menu.nav]]
-  name = "Tags"
-  url = "/tags/"
-  weight = 2
 
 [markup]
   defaultMarkdownHandler = "goldmark"
