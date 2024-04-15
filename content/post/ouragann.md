@@ -1,15 +1,14 @@
 ---
-title: "Ouragan, a Tornado Cash offramp"
-date: 2024-04-15T15:09:59Z
+title: "Ouragan"
+date: 2024-04-15T15:11:37+02:00
 math: true
 ---
 
-# Ouragan, a Tornado Cash offramp
 
 > You can leave comments of the hackMD version of this document [here](https://hackmd.io/@Leku/Bkj8EC9k0).
 
 <figure align="center">
-  <img src="../../assets/ouragan.png">
+  <img src="https://github.com/enricobottazzi/leku/blob/main/assets/ouragan.png?raw=true">
 </figure>
 
 On the 8th of August 2022, the US Department of Treasure [sanctioned](https://home.treasury.gov/news/press-releases/jy0916) the "*Notorious Virtual Currency Mixer [Tornado Cash](https://github.com/tornadocash)*." As a consequence of this, Exchanges and Stablecoin providers [started](https://www.theblock.co/post/162172/circle-freezes-usdc-funds-in-tornado-cashs-us-treasury-sanctioned-wallets) [blacklisting](https://www.coindesk.com/business/2022/08/11/crypto-exchange-dydx-blocked-accounts-that-received-even-small-amounts-from-tornado-cash/#:~:text=Cryptocurrency%20exchange%20dYdX%20said%20it,by%20the%20U.S.%20Treasury%20Department.) any address linked to Tornado Cash (TC) from their services. Specifically:
@@ -45,7 +44,7 @@ Ouragan is designed to never directly interact with or be linkable to the TC con
 
 
 <figure align="center">
-  <img src="../../assets/ouragan-scheme.png" >
+  <img src="https://github.com/enricobottazzi/leku/blob/main/assets/ouragan-scheme.png?raw=true" >
   <figcaption>Ouragan scheme</figcaption>
 </figure>
 
