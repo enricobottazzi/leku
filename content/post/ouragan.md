@@ -4,8 +4,6 @@ date: 2024-04-15T15:19:08+02:00
 publishdate: 2024-04-15
 lastmod: 2024-04-15
 math: true
-images:
-  - "https://github.com/enricobottazzi/leku/blob/main/assets/ouragan.png?raw=true"
 description: Ouragan allows a user to use the mixing property of TC without passing through the monitored `withdraw` function
 ---
 
