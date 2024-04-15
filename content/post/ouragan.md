@@ -7,7 +7,7 @@ math: true
 description: Ouragan allows a user to use the mixing property of TC without passing through the monitored `withdraw` function
 ---
 
-> You can leave comments of the hackMD version of this document [here](https://hackmd.io/@Leku/Bkj8EC9k0).
+> You can leave comments on the hackMD version of this document [here](https://hackmd.io/@Leku/Bkj8EC9k0).
 
 <figure align="center">
   <img src="https://github.com/enricobottazzi/leku/blob/main/assets/ouragan.png?raw=true">
