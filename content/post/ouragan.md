@@ -1,9 +1,10 @@
 ---
 title: "Ouragan"
-date: 2024-04-15T15:11:37+02:00
+date: 2024-04-15T15:19:08+02:00
+publishdate: 2024-04-15
+lastmod: 2024-04-15
 math: true
 ---
-
 
 > You can leave comments of the hackMD version of this document [here](https://hackmd.io/@Leku/Bkj8EC9k0).
 
