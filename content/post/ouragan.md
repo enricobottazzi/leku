@@ -1,5 +1,5 @@
 ---
-title: "Ouragan"
+title: "Ouragan, a Tornado Cash offramp"
 date: 2024-04-15T15:19:08+02:00
 publishdate: 2024-04-15
 lastmod: 2024-04-15
