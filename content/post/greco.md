@@ -1,5 +1,5 @@
 ---
-title: "Greco"
+title: "Greco: Fast Zero-Knowledge Proofs for Valid FHE RLWE Ciphertexts Formation"
 date: 2024-03-20T10:11:59Z
 math: true
 ---
@@ -10,6 +10,8 @@ math: true
   <img src="https://hackmd.io/_uploads/rJYXGUdCa.jpg" alt="Artwork by Alighiero Boetti" width="50%">
   <figcaption>Alighiero Boetti, Autodisporsi, 1975</figcaption>
 </figure>
+
+> Also available on [eprint](https://eprint.iacr.org/2024/594)
 
 
 ## 1. Introduction
