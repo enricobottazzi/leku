@@ -1,7 +1,6 @@
 ---
 title: "Beyond Zkml"
 date: 2024-04-26T16:30:43+02:00
-draft: true
 ---
 
 > Thanks to Nam Ngo for the discussions and reviews. You can leave comments on the hackMD version of this document [here](https://hackmd.io/@Leku/SJ0FnJaeR).
