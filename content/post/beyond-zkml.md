@@ -1,5 +1,5 @@
 ---
-title: "Beyond Zkml"
+title: "Beyond ZKML"
 date: 2024-04-26T16:30:43+02:00
 ---
 
