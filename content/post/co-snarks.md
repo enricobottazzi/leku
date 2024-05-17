@@ -1,5 +1,5 @@
 ---
-title: "Collaborative zk-SNARKs"
+title: "Notes on Collaborative zk-SNARKs"
 date: 2024-05-17T17:31:56+02:00
 publishdate: 2024-05-17
 lastmod: 2024-05-17
