@@ -11,7 +11,7 @@ The key insight from Devcon 7 is that Indistinguishability Obfuscation (iO) is c
 One year later, the attitude towards iO has changed:
 
 - Sora is working on an [iO implementation](https://github.com/SoraSuegami/iOMaker) based on standard assumptions
-- Gauss Labs is working on a [iO implementation](https://github.com/SoraSuegami/iOMaker) based on nonstandard assumptions and has opened a [bounty](https://obfustopia.io/) to break its security
+- Gauss Labs is working on a [iO implementation](https://github.com/gausslabs/obfustopia) based on nonstandard assumptions and has opened a [bounty](https://obfustopia.io/) to break its security
 - Further presentations from [Barry](https://www.youtube.com/live/-HAh09a5Qec?si=ki89n6nNCwgqVpd4&t=3398) [Whitehat](https://www.youtube.com/live/G_ey_WenFH8?si=aMMa4QtpUJ_Byhrr&t=3221), [Janmajaya Mall](https://app.devcon.org/schedule?text=Scalable%2520multi-party%2520FHE%2520with%2520Phantom-zone), and  [Vitalik Buterin](https://www.youtube.com/live/G_ey_WenFH8?si=-hOaRK6KbggFAJTC&t=261) illustrate practical applications that can be built using iO.
 
 <center>
